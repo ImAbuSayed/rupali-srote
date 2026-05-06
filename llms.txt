@@ -14,7 +14,7 @@
 | Song Creation Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/rupali-srote/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for Rupali Srote](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Rupali Srote](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
