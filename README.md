@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/rupali-srote/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Usage Rights for Rupali Srote](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Rupali Srote](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচিন দেশে উড়লো হাওয়া, মন তো মানলো না
+> উদাস দুপুরে মেঘের ছায়া, সে তো জানলো না
+> অবুঝ মনের এই যে ব্যাথা, কেউ তো শুনলো না
+> নীরব রাতে তার কথাটাই, বুকটা ছাড়লো না
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
