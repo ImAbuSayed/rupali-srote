@@ -10,10 +10,10 @@
 |-------|---------|
 | Title | Rupali Srote |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/rupali-srote/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Rupali Srote](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Music Rights & Licensing for Rupali Srote](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
