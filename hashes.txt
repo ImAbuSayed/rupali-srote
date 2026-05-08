@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rupali Srote
+
+This log tracks the cryptographic history and versioning for the song **Rupali Srote** (rupali-srote).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:25:29.797508 | `v1` | `e17876c88b0fc8fed98f7b085c95462586320d63d49af612aec1797bbba7e47f` | `06b1e1eebfcd2d27b68b5e01d34aa7e06176bdce6ab3482f40ddc5c95fa0591d` | `2026-05-08_rupali-srote-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
